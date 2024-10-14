@@ -1,0 +1,6 @@
+baseURL = "https://Tyellow07.github.io/Tyellow/"
+languageCode = "zh-tw"  # 語言代碼
+title = "我的 Hugo 網站"  # 網站標題
+theme = "hugo-paper"  # 設置主題
+author = "您的名字"  # 作者姓名
+
